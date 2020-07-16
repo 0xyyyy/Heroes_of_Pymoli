@@ -12,7 +12,7 @@ Using data from a hypothetical MMORPG called Heroes of Pymoli I used pandas to a
 * Optional: give the displayed data cleaner formatting
 * Display the summary data frame
 
-![Purchasing Analysis (total)](/README_images/purchasing_analysis_total.PNG)
+![Purchasing Analysis](/README_images/purchasing_analysis_total.PNG)
 
 
 **Gender Demographics**

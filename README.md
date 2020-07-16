@@ -14,6 +14,7 @@ Using data from a hypothetical MMORPG called Heroes of Pymoli I used pandas to a
 
 ![Purchasing Analysis (total)](/README_images/purchasing_analysis_total.PNG)
 
+
 **Gender Demographics**
 * Percentage and count of male players
 * Percentage and count of female players 

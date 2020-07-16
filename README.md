@@ -27,7 +27,7 @@ Using data from a hypothetical MMORPG called Heroes of Pymoli I used pandas to a
 * Optional: give the displayed data cleaner formatting 
 * Display the summary data frame 
 
-![Purchasing Analysis (gender)](/README_images/purchasing_analysis_gender.PNG)
+![Purchasing Analysis (gender)](/README_Images/purchasing_analysis_gender.PNG)
 
 **Age Demographics** 
 * Establish bins for ages
@@ -37,7 +37,7 @@ Using data from a hypothetical MMORPG called Heroes of Pymoli I used pandas to a
 * Optional: round the percentage column to two decimal points
 * Display Age Demographics Table
 
-![Age Demographics](/README_images/age_demographics.PNG)
+![Age Demographics](/README_Images/age_demographics.PNG)
 
 **Purchasing Analysis (Age)**
 * Bin the purchase_data data frame by age
@@ -46,7 +46,7 @@ Using data from a hypothetical MMORPG called Heroes of Pymoli I used pandas to a
 * Optional: give the displayed data cleaner formatting
 * Display the summary data frame
 
-![Purchasing Analysis (Age)](/README_images/purchasing_analysis_age.PNG)
+![Purchasing Analysis (Age)](/README_Images/purchasing_analysis_age.PNG)
 
 **Top Spenders** 
 * Run basic calculations to obtain the results in the table below
@@ -55,7 +55,7 @@ Using data from a hypothetical MMORPG called Heroes of Pymoli I used pandas to a
 * Optional: give the displayed data cleaner formatting
 * Display a preview of the summary data frame
 
-![Top Spenders](/README_images/top_spenders.PNG)
+![Top Spenders](/README_Images/top_spenders.PNG)
 
 **Most Popular Items**
 * Retrieve the Item ID, Item Name, and Item Price columns
@@ -65,11 +65,11 @@ Using data from a hypothetical MMORPG called Heroes of Pymoli I used pandas to a
 * Optional: give the displayed data cleaner formatting
 * Display a preview of the summary data frame
 
-![Top Items](/README_images/top_items.PNG)
+![Top Items](/README_Images/top_items.PNG)
 
 **Most Profitable Items**
 * Sort the above table by total purchase value in descending order
 * Optional: give the displayed data cleaner formatting
 * Display a preview of the data frame
 
-![Most Profitable items](/README_images/most_profitable_item.PNG)
+![Most Profitable items](/README_Images/most_profitable_item.PNG)

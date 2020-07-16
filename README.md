@@ -4,7 +4,7 @@ Using data from a hypothetical MMORPG called Heroes of Pymoli I used pandas to a
 **Player count**
 * diplay total number of players: 
 
-![Player Count](/README_images/player_count_df.PNG)
+![Player Count](/README_images/player_count_df.png)
 
 **Purchasing Analysis (Total)**
 * Run basic calculations to obtain number of unique items, average price, etc.

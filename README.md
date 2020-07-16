@@ -4,7 +4,7 @@ Using data from a hypothetical MMORPG called Heroes of Pymoli I used pandas to a
 **Player count**
 * diplay total number of players: 
 
-![Player Count](/README_images/player_count_df)
+![Player Count](/README_images/player_count_df.PNG)
 
 **Purchasing Analysis (Total)**
 * Run basic calculations to obtain number of unique items, average price, etc.
@@ -12,14 +12,14 @@ Using data from a hypothetical MMORPG called Heroes of Pymoli I used pandas to a
 * Optional: give the displayed data cleaner formatting
 * Display the summary data frame
 
-![Purchasing Analysis (total)](/README_images/purchasing_analysis_total)
+![Purchasing Analysis (total)](/README_images/purchasing_analysis_total.PNG)
 
 **Gender Demographics**
 * Percentage and count of male players
 * Percentage and count of female players 
 * Percentage and count of Other/Non-Disclosed 
 
-![Gender demographics](/README_images/gender_demographics_data)
+![Gender demographics](/README_images/gender_demographics_data.PNG)
 
 **Purchasing Analysis (Gender)**
 * Run basic calculations to obtain purchase count, avg. purchase price, avg. purchase total per person etc. by gender 
@@ -27,7 +27,7 @@ Using data from a hypothetical MMORPG called Heroes of Pymoli I used pandas to a
 * Optional: give the displayed data cleaner formatting 
 * Display the summary data frame 
 
-![Purchasing Analysis (gender)](/README_images/purchasing_analysis_gender)
+![Purchasing Analysis (gender)](/README_images/purchasing_analysis_gender.PNG)
 
 **Age Demographics** 
 * Establish bins for ages
@@ -37,7 +37,7 @@ Using data from a hypothetical MMORPG called Heroes of Pymoli I used pandas to a
 * Optional: round the percentage column to two decimal points
 * Display Age Demographics Table
 
-![Age Demographics](/README_images/age_demographics)
+![Age Demographics](/README_images/age_demographics.PNG)
 
 **Purchasing Analysis (Age)**
 * Bin the purchase_data data frame by age
@@ -46,7 +46,7 @@ Using data from a hypothetical MMORPG called Heroes of Pymoli I used pandas to a
 * Optional: give the displayed data cleaner formatting
 * Display the summary data frame
 
-![Purchasing Analysis (Age)](/README_images/purchasing_analysis_age)
+![Purchasing Analysis (Age)](/README_images/purchasing_analysis_age.PNG)
 
 **Top Spenders** 
 * Run basic calculations to obtain the results in the table below
@@ -55,7 +55,7 @@ Using data from a hypothetical MMORPG called Heroes of Pymoli I used pandas to a
 * Optional: give the displayed data cleaner formatting
 * Display a preview of the summary data frame
 
-![Top Spenders](/README_images/top_spenders)
+![Top Spenders](/README_images/top_spenders.PNG)
 
 **Most Popular Items**
 * Retrieve the Item ID, Item Name, and Item Price columns
@@ -65,11 +65,11 @@ Using data from a hypothetical MMORPG called Heroes of Pymoli I used pandas to a
 * Optional: give the displayed data cleaner formatting
 * Display a preview of the summary data frame
 
-![Top Items](/README_images/top_items)
+![Top Items](/README_images/top_items.PNG)
 
 **Most Profitable Items**
 * Sort the above table by total purchase value in descending order
 * Optional: give the displayed data cleaner formatting
 * Display a preview of the data frame
 
-![Most Profitable items](/README_images/most_profitable_item)
+![Most Profitable items](/README_images/most_profitable_item.PNG)

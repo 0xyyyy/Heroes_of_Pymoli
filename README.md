@@ -4,7 +4,7 @@ Using data from a hypothetical MMORPG called Heroes of Pymoli I used pandas to a
 **Player count**
 * diplay total number of players: 
 
-![Player Count](/README_images/player_count_df.png)
+![Player Count](/README_Images/player_count_df.png)
 
 **Purchasing Analysis (Total)**
 * Run basic calculations to obtain number of unique items, average price, etc.
@@ -19,7 +19,7 @@ Using data from a hypothetical MMORPG called Heroes of Pymoli I used pandas to a
 * Percentage and count of female players 
 * Percentage and count of Other/Non-Disclosed 
 
-![Gender demographics](/README_images/gender_demographics_data.PNG)
+![Gender demographics](/README_Images/gender_demographics_data.PNG)
 
 **Purchasing Analysis (Gender)**
 * Run basic calculations to obtain purchase count, avg. purchase price, avg. purchase total per person etc. by gender 
